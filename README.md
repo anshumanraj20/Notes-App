@@ -28,7 +28,8 @@ The Awesome Notes App is designed to help you capture, organize, and manage your
 The Light/Dark mode toggle in my notes app offers two visual themes for users. Light mode uses a white background with dark text, while Dark mode employs a dark background with light text. This feature enhances user customization, readability, and reduces eye strain in different lighting conditions with a simple toggle.
 
 ## Screenshots
-![App Screenshot](https://github.com/anshumanraj20/Notes-App/assets/129774053/c8d92c8a-76d1-488d-85ef-eb3ad9c388af)
+![dark mode](https://github.com/anshumanraj20/Notes-App/assets/129774053/31c0db79-0424-4d96-ba51-f94cf121c3f0)
+
 
 ## 2. Voice and Handwriting Recognition
 
