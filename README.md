@@ -11,7 +11,7 @@ The Awesome Notes App is designed to help you capture, organize, and manage your
 
 ## Screenshots
 
-![App Screenshot](notesApp\src\assets\1.png)
+![App Screenshot](./1.png)
 
 
 ## Features
@@ -30,7 +30,7 @@ The Light/Dark mode toggle in my notes app offers two visual themes for users. L
 
 ## Screenshots
 
-![App Screenshot](notesApp\src\assets\2.png)
+![App Screenshot](./2.png)
 
 ## 2. Voice and Handwriting Recognition
 
@@ -38,7 +38,7 @@ Voice and Handwriting Recognition in your notes app allows users to dictate note
 
 ## Screenshots
 
-![App Screenshot](notesApp\src\assets\audio.PNG)
+![App Screenshot](./notesContainer.PNG)
 
 ## 3. Multiple fonts for text
 
@@ -46,7 +46,7 @@ The Multiple Fonts for Text feature in your notes app enables users to choose fr
 
 ## Screenshots
 
-![App Screenshot](notesApp\src\assets\3.PNG)
+![App Screenshot](./3.PNG)
 
 ## 4. Search
 
@@ -54,7 +54,7 @@ The Search feature in your notes app enables users to quickly find specific note
 
 ## Screenshots
 
-![App Screenshot](notesApp\src\assets\search.PNG)
+![App Screenshot](./search.PNG)
 
 ## 5. Multiple backgroundcolor for text area
 
@@ -62,7 +62,7 @@ The Multiple Background Colors for Text Area feature in your notes app allows us
 
 ## Screenshots
 
-![App Screenshot](notesApp\src\assets\color.PNG)
+![App Screenshot](./color.PNG)
 
 ## 6. Delete Button
 
@@ -70,7 +70,7 @@ The Delete feature in your notes app allows users to remove unwanted or unnecess
 
 ## Screenshots
 
-![App Screenshot](notesApp\src\assets\audio.PNG)
+![App Screenshot](./audio.PNG)
 
 ## 7. Share Button
 
@@ -78,4 +78,4 @@ The Share feature in your notes app enables users to distribute and collaborate 
 
 ## Screenshots
 
-![App Screenshot](notesApp\src\assets\audio.PNG)
+![App Screenshot](./audio.PNG)
