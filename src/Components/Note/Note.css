@@ -1,0 +1,72 @@
+.note {
+  padding: 25px;
+  height: 280px;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  background-color: blueviolet;
+  border-radius: 30px;
+}
+
+.note_text {
+  flex: 1;
+  resize: none;
+  background-color: transparent;
+  font-size: 1rem;
+  line-height: 1.875rem;
+  outline: none;
+  border: none;
+}
+
+.note_footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.note_footer img {
+  cursor: pointer;
+  opacity: 0;
+  transition: 300ms;
+  width: 20px; 
+  height: 20px;
+}
+
+.note:hover .note_footer img {
+  opacity: 1;
+}
+
+.note_footer button {
+  cursor: pointer;
+  opacity: 0;
+  transition: 300ms;
+  width: 20px; 
+  height: 20px;
+}
+
+.note:hover .note_footer button {
+  opacity: 1;
+}
+.note_title {
+  width: 100%;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  outline: none;
+  background-color: rgba(255, 255, 255, 0.7); /* Add transparency */
+  padding: 10px; /* Add some padding for spacing */
+  border-radius: 5px; /* Add rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  color: #333; /* Text color */
+  transition: background-color 0.3s, color 0.3s; /* Add smooth transition */
+}
+
+.note_title::placeholder {
+  color: #999; /* Placeholder text color */
+}
+
+.note_title:focus {
+  background-color: rgba(255, 255, 255, 1); /* Remove transparency on focus */
+  color: #000; /* Text color on focus */
+}
